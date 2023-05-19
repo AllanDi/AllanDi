@@ -1,6 +1,4 @@
-## Eu sou o Allan Diego
-
-Estudante de Analise e Desenvolvimento de Sistemas, técnico em eletrônica e atualmente me empenhando na área da programação.
+Estudante de Analise e Desenvolvimento de Sistemas, técnico em eletrônica e atualmente me trabalhando na área da programação.
 
 ## 📌 Conecte comigo
 
