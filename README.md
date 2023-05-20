@@ -1,7 +1,7 @@
 Olá! Meu nome é Allan Diego sou um estudante de Análise e Desenvolvimento de Sistemas e também possuo formação técnica em eletrônica.<br>
 Atualmente, estou imerso na área da programação, com foco no desenvolvimento e criação de APIs Java utilizando Spring.<br>
-Estou buscando aprimorar minhas habilidades nesse campo e contribuir para projetos inovadores.<br>
-Sempre em busca de novos desafios e oportunidades de aprendizado.<br>
+Estou buscando aprimorar minhas habilidades nesse campo e contribuir para novos projetos.<br>
+Sempre em busca de oportunidades de aprendizado.<br>
 
 ## 📌 Conecte-se comigo
 
