@@ -1,5 +1,5 @@
 Estudante de Análise e Desenvolvimento de Sistemas e também formação tecnica em eletrônica.<br>
-Atualmente imerso na área da programação, com foco no desenvolvimento e criação de APIs Java utilizando Spring.<br>
+Atualmente imerso na área da programação, com foco no desenvolvimento e criação de APIs utilizando Spring Boot.<br>
 
 
 ## 📌 Conecte-se comigo
