@@ -1,9 +1,7 @@
-Estudante de Análise e Desenvolvimento de Sistemas e também formação tecnica em eletrônica.<br>
-Atualmente imerso na área da programação, com foco no desenvolvimento e criação de APIs utilizando Spring Boot.<br>
+I am a student of Systems Analysis and Development with a technical background in Electronics. I am currently deeply engaged in the field of programming, with a particular focus on developing and crafting APIs using Java and Spring Boot..<br>
 
 
-## 📌 Conecte-se comigo
-
+## 📌 My contacts.
 <div>
   
  <a href="https://www.linkedin.com/in/allandrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -11,7 +9,7 @@ Atualmente imerso na área da programação, com foco no desenvolvimento e cria�
   
 </div>
 
-## 💻 Principais linguagens e ferramentas:
+## 💻 Key languages and tools:
 
 <div style="display: inline_block"><br>
   
