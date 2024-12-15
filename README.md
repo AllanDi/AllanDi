@@ -1,4 +1,8 @@
-I am a student of Systems Analysis and Development with a technical background in Electronics. I am currently deeply engaged in the field of programming, with a particular focus on developing and crafting APIs using Java and Spring Boot..<br>
+Graduated in Electronics, Systems Analysis and Development, and currently studying Computer Science, I have built my career by integrating hardware and software. My technical background in Electronics provided me with a solid foundation in PCB design and maintenance, as well as a hands-on approach.
+
+I am currently working on back-end solutions in the Open Finance sector, contributing to the development and maintenance of APIs.
+
+Skilled in technologies such as Java, Spring Boot, and cloud solutions, I am committed to applying best practices in development and security, driven by a passion for continuous learning.<br>
 
 
 ## 📌 My contacts.
