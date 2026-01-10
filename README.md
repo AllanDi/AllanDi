@@ -82,8 +82,10 @@ I am passionate about structuring knowledge efficiently. I utilize tools like **
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Top Languages"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/AllanDi/AllanDi/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img src="https://github.com/AllanDi/AllanDi/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
 <br>
