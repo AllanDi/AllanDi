@@ -80,9 +80,3 @@ I am passionate about structuring knowledge efficiently. I utilize tools like **
 <div align="center">
   <img src="https://github.com/AllanDi/AllanDi/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</div>
