@@ -78,12 +78,12 @@ I am passionate about structuring knowledge efficiently. I utilize tools like **
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allandrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Allan's Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanDi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Allan's Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/allandrs/allandrs/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://github.com/AllanDi/AllanDi/blob/output/github-contribution-grid-snake.svg?raw=true">
 </div>
 
 <br>
