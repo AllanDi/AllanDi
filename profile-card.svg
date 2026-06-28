@@ -4,13 +4,20 @@
   <!-- backdrop: Claude dark code block -->
   <rect width="860" height="720" rx="12" fill="#1a1915"/>
 
-  <!-- title bar -->
+  <!-- title bar: GNOME / Adwaita header -->
   <rect width="860" height="40" rx="12" fill="#22211c"/>
   <rect y="28" width="860" height="12" fill="#22211c"/>
-  <circle cx="24" cy="20" r="6" fill="#c96442"/>
-  <circle cx="44" cy="20" r="6" fill="#d4a05a"/>
-  <circle cx="64" cy="20" r="6" fill="#8a9a6b"/>
   <text x="430" y="25" text-anchor="middle" fill="#83827d" font-size="13">README.md</text>
+  <!-- window controls, right-aligned (minimize / maximize / close) -->
+  <g stroke-linecap="round">
+    <circle cx="764" cy="20" r="13" fill="#2c2b26"/>
+    <line x1="758" y1="20" x2="770" y2="20" stroke="#9a9890" stroke-width="1.5"/>
+    <circle cx="800" cy="20" r="13" fill="#2c2b26"/>
+    <rect x="795" y="15" width="10" height="10" rx="1.5" fill="none" stroke="#9a9890" stroke-width="1.5"/>
+    <circle cx="836" cy="20" r="13" fill="#3a2a24"/>
+    <line x1="831" y1="15" x2="841" y2="25" stroke="#c96442" stroke-width="1.5"/>
+    <line x1="841" y1="15" x2="831" y2="25" stroke="#c96442" stroke-width="1.5"/>
+  </g>
 
   <!-- gutter -->
   <rect x="0" y="40" width="48" height="680" fill="#22211c"/>
